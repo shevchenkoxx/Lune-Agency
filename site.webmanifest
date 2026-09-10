@@ -1,0 +1,9 @@
+{
+  "name": "LUNE Agency",
+  "short_name": "LUNE",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#171318",
+  "theme_color": "#171318",
+  "icons": []
+}
