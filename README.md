@@ -43,7 +43,7 @@ The bot token is never exposed in browser code.
 For the fallback button, update the body attribute in `index.html`:
 
 ```html
-<body data-telegram-admin="YOUR_TELEGRAM_USERNAME">
+<body data-telegram-admin="luneagency">
 ```
 
 Use the admin username without `@`.
@@ -70,8 +70,14 @@ The folder is already compatible with Vercel. Import this repository, add the Te
 
 ## Before paid traffic
 
-- Replace the Telegram placeholder.
+- Verify delivery in your Telegram bot admin chat if bot delivery is enabled.
 - Keep `$5K+` / `$100K` only if these are LUNE's own verifiable cases.
 - Replace starter Privacy/Terms with final legal text for the entity/jurisdiction operating LUNE.
 - Add real creator stories only when they are genuine and permissioned.
 - Add analytics/pixels only after deciding the tracking/privacy setup.
+
+## Media and contact update
+
+Production domain: https://lovelune.live/ (also www.lovelune.live). Direct contact: https://t.me/luneagency. If bot delivery fails or is unavailable, the form offers a Telegram draft with the applicant contacts and attribution, requiring the visitor to press Send. No bot token is needed for this path.
+
+Hero images `assets/creator-live-640.webp` and `assets/creator-live-1024.webp` and social preview `assets/creator-social.jpg` are AI-generated illustrative photography, not a real creator testimonial. Generated with built-in Imagegen: adult creator hosting a livestream at home, cream knit top, warm rose/cream interior, natural window light, vertical framing, no text/logos/platform UI.
