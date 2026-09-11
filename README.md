@@ -81,3 +81,9 @@ The folder is already compatible with Vercel. Import this repository, add the Te
 Production domain: https://lovelune.live/ (also www.lovelune.live). Direct contact: https://t.me/luneagency. If bot delivery fails or is unavailable, the form offers a Telegram draft with the applicant contacts and attribution, requiring the visitor to press Send. No bot token is needed for this path.
 
 Hero images `assets/creator-live-640.webp` and `assets/creator-live-1024.webp` and social preview `assets/creator-social.jpg` are AI-generated illustrative photography, not a real creator testimonial. Generated with built-in Imagegen: adult creator hosting a livestream at home, cream knit top, warm rose/cream interior, natural window light, vertical framing, no text/logos/platform UI.
+
+Social preview v3 uses a dedicated landscape illustration (`assets/lune-social-v3.jpg`, 1200×630), preserving the full face instead of automatically cropping the portrait. OG and Twitter text match in Russian. The versioned image path avoids reusing the previous cached image URL. Existing messenger cards may retain a cached preview.
+
+## Approved offer and selected photo
+
+User confirmed free training, a personal manager, prepared LIVE topics and support for every LIVE at the start. The user supplied the $1,000–3,000 first-month results; page copy presents these as individual participant results, dependent on involvement, not guaranteed pay. Dark Studio is selected for both hero and social preview. Social preview uses `assets/lune-dark-social-v4.jpg`; responsive hero uses `assets/dark-studio-640.webp` and `assets/dark-studio-1280.webp`.
